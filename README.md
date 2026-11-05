@@ -1,5 +1,7 @@
 # COVID-19 Mortality Analysis
 
+Portfolio project built to simulate analytical tasks I performed in real business scenarios.
+
 ## Overview
 
 This is a small **R data analysis project** exploring COVID-19 mortality patterns.  
